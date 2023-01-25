@@ -33,6 +33,8 @@ Web Development & Deployment: Python, Streamlit framework has been used for web 
 
 Visit The Web App :https://bhushan-zade-movie-recommender-system-app-ipxnrc.streamlit.app/
 
+<img align="" alt="coding" width="600" src= "https://user-images.githubusercontent.com/118050962/214591115-0990c4b9-054c-49c2-870a-986ea732a1e8.PNG">
+
 # Visit For Details:
 
 Data Gathered From: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
