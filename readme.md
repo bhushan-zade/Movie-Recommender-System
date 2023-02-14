@@ -1,4 +1,4 @@
-# Movie Recommender System
+# **`Movie Recommender System`**
 
 A Recommender System, or a Recommendation System, is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give 
 to an item. They are primarily used in commercial applications. (source - Wikipedia)
@@ -35,7 +35,7 @@ Visit The Web App :https://bhushan-zade-movie-recommender-system-app-ipxnrc.stre
 
 <img align="" alt="coding" width="600" src= "https://user-images.githubusercontent.com/118050962/214591115-0990c4b9-054c-49c2-870a-986ea732a1e8.PNG">
 
-# Visit For Details:
+# **`Visit For Details:`**
 
 Data Gathered From: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
