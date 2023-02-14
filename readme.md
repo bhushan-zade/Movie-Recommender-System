@@ -37,8 +37,8 @@ Web Development & Deployment: Python, Streamlit framework has been used for web 
 
 # **`Visit For Details:`**
 
-Data Source: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+**`Data Source:`** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-Data Pre-Processing & Model Applied: https://www.kaggle.com/code/bhu1111/movies-recommendation-system
+**`Data Pre-Processing & Model Applied:`** https://www.kaggle.com/code/bhu1111/movies-recommendation-system
 
-Model Python-APP(app.py): https://github.com/bhushan-zade/Movie-Recommender-System/blob/main/app.py
+**`Model Python-APP(app.py):`** https://github.com/bhushan-zade/Movie-Recommender-System/blob/main/app.py
